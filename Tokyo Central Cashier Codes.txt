@@ -13,5 +13,5 @@ Potato
 	Red - 651 lb
 
 Satoimo - 476 lb
-Satsumaimo - 656 lb
+Satsumaimo - 656 lc
 
